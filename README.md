@@ -36,6 +36,8 @@ StudyMate
 
 11. 대화를 통한 정보 찾기 기능
 
+12. 하차 알림 시스템
+
 참고한 서비스나 프로젝트
 google calender
 
